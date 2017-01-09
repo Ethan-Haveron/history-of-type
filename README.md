@@ -7,11 +7,15 @@
 ## November
 
 [Version Two - Navigation Added](https://ethan-haveron.github.io/history-of-type/history-of-type-2.html)
-[Version Three - Nested Lists](https://ethan-haveron.github.io/history-of-type/history-of-type-3.html)
+
+
+
 
 ## November
 
-[Version Four - Tables](https://ethan-haveron.github.io/history-of-type/table.html)
+[Version Three - Tables](https://ethan-haveron.github.io/history-of-type/table.html)
 
+
+[Version Four - added css](https://ethan-haveron.github.io/history-of-type/history-of-type-3.html)
 
 
